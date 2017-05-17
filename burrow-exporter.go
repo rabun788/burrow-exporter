@@ -11,7 +11,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/jirwin/burrow_exporter/burrow_exporter"
+	"github.com/jirwin/burrow-exporter/burrow_exporter"
 )
 
 func main() {
